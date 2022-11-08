@@ -1,0 +1,25 @@
+body {
+    background-color: powderblue;
+  }
+  h1 {
+    color: blue;
+  }
+  p {
+    color: red;
+  }
+  .imagecontainer {
+    
+width:100vw ;
+height :100vh;
+background-image: url("../../Downloads/43888211659537563upload_1659537555784.png");
+background-repeat: no-repeat;
+background-position: center; 
+background-size: cover;
+  }
+  .imagesamanda{
+    width:100vw ;
+height :100vh;
+background-image: url("./download\ \(1\).jpg");
+background-repeat: no-repeat; 
+background-size: cover;
+  }
